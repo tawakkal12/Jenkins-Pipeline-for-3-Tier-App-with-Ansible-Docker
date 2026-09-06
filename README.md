@@ -24,13 +24,11 @@ terraform apply
 
 We will create a private repository in GitHub to store source code files.
 
-![](images/github-repo.png)
 
 Then to be able to access this repo from Jenkins, we will create an access token from GitHub.
 
 Go to your GitHub avatar, click `settings` -> `Developer Settings` -> `Personal Access Tokens` -> Create new token and copy it to somewhere.We will need this token later.
 
-![](images/token.png)
 
 ### Step-3: Clone repo to Jenkins server
 
