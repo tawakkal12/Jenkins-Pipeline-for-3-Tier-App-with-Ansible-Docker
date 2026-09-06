@@ -1,5 +1,3 @@
-# Project-18: Jenkins Pipeline for 3-Tier App with Ansible & Docker
-
 ![](images/Project-18.png)
 
 ## Pre-requisites
